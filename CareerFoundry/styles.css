@@ -1,0 +1,121 @@
+.colores {
+    color: #0B304A;
+}
+
+.generalColor {
+    color: #223C50;
+}
+
+.colorsito {
+    color: #21667c;
+}
+
+.generalColorBackground {
+    background-color: #223C50;
+}
+
+.a:hover {
+    text-decoration: none;
+}
+
+.a {
+    text-decoration: none;
+}
+
+.texSize {
+    font-size: 12px;
+}
+
+.texSize1 {
+    font-size: 14px;
+}
+
+.titleSize {
+    font-size: 14px;
+}
+
+.card {
+    width: 100%;
+    height: 100%;
+}
+
+.ML {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+
+/* .cards {
+    margin-left: 10%;
+} */
+
+.cardss {
+    width: 18rem;
+    height: 60%;
+    border-top: 4px solid;
+    border-radius: 4px;
+    border-color: black;
+    border-top-color: #5ca2b2;
+}
+
+.cardsss {
+    border-bottom: 4px solid;
+    border-bottom-color: #ffbc42;
+}
+
+.cards11 {
+    border-bottom: 4px solid;
+    border-bottom-color: #197eff;
+    height: 300px;
+}
+
+.flex {
+    display: flex;
+}
+
+@media (max-width: 530px) {
+    .flex {
+        display: block;
+    }
+    .cardss {
+        width: 100%;
+    }
+}
+
+.label {
+    display: inline-block;
+    text-transform: uppercase;
+    height: 25px;
+    padding: 0 10px;
+    border-radius: 2px;
+    vertical-align: middle;
+    line-height: 28px;
+    font-weight: 700;
+}
+
+.label1 {
+    display: inline-block;
+    text-transform: uppercase;
+    height: 25px;
+    padding: 0 10px;
+    border-radius: 2px;
+    vertical-align: middle;
+    line-height: 28px;
+    font-weight: 700;
+}
+
+.a:hover {
+    text-decoration: none;
+}
+
+.a {
+    text-decoration: none;
+}
+
+.Decoration {
+    text-decoration-line: line-through;
+}
+
+.imgs {
+    border-radius: 100px;
+}
